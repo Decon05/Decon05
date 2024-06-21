@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Decon05
-- 👀 I’m interested in ...
+- 👀 I’m interested in bringing what I learn from coding into functional, usable projects
 - 🌱 I’m currently learning basic coding fundamentals, with Java as my first language! 
 - 💞️ I’m looking to collaborate on projects with friends
 - 📫 How to reach me:
